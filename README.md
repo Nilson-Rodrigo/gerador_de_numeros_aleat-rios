@@ -25,7 +25,7 @@ cd gerador-numeros
 - JavaScript puro (sem bibliotecas)
 
 ## 📁 Estrutura de pastas
-gerador-numeros/
+```gerador-numeros/
 │
 ├── css e js/
 │   ├── CSS/
@@ -34,7 +34,7 @@ gerador-numeros/
 │       └── script.js
 │
 └── index.html
-
+```
 ## 📚 Materiais de apoio (opcional)
 ## 🎥 Vídeo de apoio
 [Assista no YouTube](https://youtu.be/w3HSS6cLKeU?si=RnxsvZDObj6f1UpN)
